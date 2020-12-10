@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 263619992471fab4595f7722fb3115c4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Overgrow
+  fontNames:
+  - Overgrow
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ef61e18a2832bbc41b6bba69096db2d1, type: 3}
+  - {fileID: 12800000, guid: 24b089ad59309a640884f76bc12fd20b, type: 3}
+  - {fileID: 12800000, guid: 791e293f27eaf1244bc1c8206be9a66e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
